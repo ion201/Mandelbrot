@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MandelbrotFractal:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MandelbrotFractal.jar</output-path>
+    <root id="archive" name="MandelbrotFractal.jar">
+      <element id="module-output" name="MandelbrotFractal" />
+    </root>
+  </artifact>
+</component>
