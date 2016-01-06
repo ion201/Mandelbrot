@@ -2,4 +2,4 @@
 
 A simple mandelbrot fractal generator written in java.
 
-Demo: http://natesimon.me/MandelbrotFractal/
+Demo: https://natesimon.net/MandelbrotFractal/
